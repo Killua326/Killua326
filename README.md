@@ -2,6 +2,22 @@
 
 ### Programador Junior Full Stack | Estudiante de Ciencia de la Computación
 
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
 📍 Santiago de Cuba, Cuba  
 📧 kuronozeref326@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/alejandro-magno326)
@@ -29,6 +45,12 @@ Programador autodidacta con 21 años, actualmente cursando 3er año de Licenciat
 | **Lenguajes** | TypeScript, JavaScript, Python |
 | **Estilos** | Tailwind CSS |
 | **Herramientas** | Git, VS Code, Expo |
+
+---
+
+## 📊 Lenguajes más usados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Killua326&layout=compact&theme=dark&hide=html,css)
 
 ---
 
@@ -68,11 +90,6 @@ Aplicación móvil Android (APK) desarrollada para la plataforma web [tenloListo
 [🌐 Visitar sitio web](https://tenloListo.com)
 
 ---
-## 📊 Estadísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Killua326&show_icons=true&theme=dark)
-
----
 
 ## 📬 ¿Hablamos?
 
@@ -81,3 +98,7 @@ Estoy abierto a oportunidades de trabajo remoto, freelance o colaboraciones.
 - 📧 kuronozeref326@gmail.com
 - 💬 [Telegram](https://t.me/Killua_326)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/alejandro-magno326)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Killua326&color=blue&style=flat-square)
