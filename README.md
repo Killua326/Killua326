@@ -50,6 +50,24 @@ Sistema completo de gestión bibliotecaria desarrollado como **proyecto final de
 
 ---
 
+### 📱 TenloListo-Business *(Proyecto Privado - Cliente)*
+
+Aplicación móvil Android (APK) desarrollada para la plataforma web [tenloListo.com](https://tenloListo.com).
+
+**Tecnologías:** React Native, Expo, TypeScript
+
+**Mi rol:** Desarrollo completo de la primera versión, implementación de módulos clave de la plataforma web en entorno móvil.
+
+**Principales responsabilidades:**
+- Desarrollo de la APK desde cero hasta primera versión funcional
+- Integración con API existente de tenloListo.com
+- Adaptación de funcionalidades web a experiencia móvil
+
+*🔒 El código es privado por acuerdo de confidencialidad con el cliente.*
+
+[🌐 Visitar sitio web](https://tenloListo.com)
+
+---
 ## 📊 Estadísticas
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Killua326&show_icons=true&theme=dark)
