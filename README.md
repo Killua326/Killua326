@@ -32,11 +32,21 @@ Programador autodidacta con 21 años, actualmente cursando 3er año de Licenciat
 
 ---
 
-## 📁 Proyectos destacados
+## 📚 Proyectos Destacados
 
-> *Próximamente... mis repositorios organizados*
+### [BibliotecaUO - Sistema de Gestión de Préstamos](https://github.com/Killua326/biblioteca-uo)
 
-Mientras tanto, puedes ver mi experiencia en [LinkedIn](https://www.linkedin.com/in/alejandro-magno326)
+Sistema completo de gestión bibliotecaria desarrollado como **proyecto final de Base de Datos II**.
+
+**Tecnologías:** React, Node.js, Express, PostgreSQL
+
+**Características principales:**
+- Gestión de usuarios regulares y eventuales con archivo histórico
+- Cálculo dinámico de pesos (factor estancia × cantidad préstamos)
+- Validación de peso máximo configurable por usuario
+- Interfaz moderna con navbar plegable y modales personalizados
+
+[![Ver Repositorio](https://img.shields.io/badge/Ver_Repositorio-GitHub-181717?logo=github)](https://github.com/Killua326/biblioteca-uo)
 
 ---
 
