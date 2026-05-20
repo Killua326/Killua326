@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hola, soy Alejandro Magno Pérez
 
-<!--
-**Killua326/Killua326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Programador Junior Full Stack | Estudiante de Ciencia de la Computación
 
-Here are some ideas to get you started:
+📍 Santiago de Cuba, Cuba  
+📧 kuronozeref326@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/alejandro-magno326)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mí
+
+Programador autodidacta con 21 años, actualmente cursando 3er año de Licenciatura en Ciencia de la Computación. Con experiencia laboral activa desarrollando aplicaciones móviles con React Native y TypeScript.
+
+- 🔭 Actualmente trabajo en **DATYS** como Desarrollador Frontend
+- 🌱 Especializándome en **Next.js + Supabase + Tailwind CSS**
+- 💼 Desarrollador independiente de la APK **tenloListo-Business**
+- 📫 Contacto rápido: [Telegram](https://t.me/Killua_326) | WhatsApp: +53 56837812
+
+---
+
+## 🛠️ Tecnologías que uso
+
+| Categoría | Tecnologías |
+|-----------|-------------|
+| **Frontend** | React, React Native, Next.js, Vite |
+| **Backend** | Node.js, Express |
+| **Bases de datos** | PostgreSQL, Supabase |
+| **Lenguajes** | TypeScript, JavaScript, Python |
+| **Estilos** | Tailwind CSS |
+| **Herramientas** | Git, VS Code, Expo |
+
+---
+
+## 📁 Proyectos destacados
+
+> *Próximamente... mis repositorios organizados*
+
+Mientras tanto, puedes ver mi experiencia en [LinkedIn](https://www.linkedin.com/in/alejandro-magno326)
+
+---
+
+## 📊 Estadísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Killua326&show_icons=true&theme=dark)
+
+---
+
+## 📬 ¿Hablamos?
+
+Estoy abierto a oportunidades de trabajo remoto, freelance o colaboraciones.
+
+- 📧 kuronozeref326@gmail.com
+- 💬 [Telegram](https://t.me/Killua_326)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alejandro-magno326)
