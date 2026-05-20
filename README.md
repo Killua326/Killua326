@@ -1,4 +1,4 @@
-# 👋 Hola, soy Alejandro Magno Pérez
+# 👋 Hola, soy Alejandro Magno Pérez González
 
 ### Programador Junior Full Stack | Estudiante de Ciencia de la Computación
 
